@@ -3,10 +3,10 @@
 - Author: Aldi Ageng
 
 ## API Swagger Docs
-[text](http://localhost:8000/api-docs/)
+http://localhost:8000/api-docs/
 
 ## API Postman Docs
-[text](https://documenter.getpostman.com/view/12822793/2sA3QqfXjd)
+https://documenter.getpostman.com/view/12822793/2sA3QqfXjd
 
 ## How to use?
 ```
